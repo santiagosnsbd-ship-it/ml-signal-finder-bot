@@ -1,0 +1,9 @@
+public/** linguist-vendored
+
+*.yml linguist-detectable=false
+
+*.yaml linguist-detectable=false
+
+**/*.py linguist-detectable
+* text=auto
+* text=auto eol=lf
